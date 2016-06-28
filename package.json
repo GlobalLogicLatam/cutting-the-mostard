@@ -1,0 +1,29 @@
+{
+  "name": "cutting-the-mostard",
+  "version": "1.0.0",
+  "description": "A lightweight alternative to jQuery for modern browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/globallogicargentina/cutting-the-mostard.git"
+  },
+  "keywords": [
+    "jQuery",
+    "cut",
+    "cutting",
+    "the",
+    "mustard"
+  ],
+  "author": "GlobalLogic Argentina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/globallogicargentina/cutting-the-mostard/issues"
+  },
+  "homepage": "https://github.com/globallogicargentina/cutting-the-mostard#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
